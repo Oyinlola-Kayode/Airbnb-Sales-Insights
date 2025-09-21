@@ -160,9 +160,16 @@ Temporal & demand signals
   - 2020 +281.5%
 
  
- ![my visual](Visual/Airbnb%20market%20overview%20%26%20performance%20dashboard.jpg)
 
-![my visual](Visual/Airbnb Host&Supply dashboard.jpg)
+
+![my visual](Visual/Airbnb%20market%20overview%20%26%20performance%20dashboard.jpg)
+
+![my visual](Visual/Airbnb%20Host%26Supply%20dashboard.jpg)
+
+![my visual](Visual/Airbnb%20trend%20%26%20seasonality%20dashboard.jpg)
+
+![my visual](Visual/Airbnb%20room%20profiles%20dashboard.jpg)
+
 
 ---
 
