@@ -158,8 +158,8 @@ Temporal & demand signals
   - 2014 +513.4%  
   - 2019 +276.9%  
   - 2020 +281.5%
- 
- ![Visual](Visual/Airbnb market overview & performance dashboard.jpg)
+ ![my visual](Visual/Airbnb%20market%20overview%20%26%20performance%20dashboard.jpg)
+
 
 
 ---
